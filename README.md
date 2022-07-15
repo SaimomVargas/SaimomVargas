@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Saimom Vargas}!</strong>
+## 💜 Olá, meu nome é <strong>Saimom Vargas!</strong>
 
 > Estudante de Análise e desenvolvimento de sistemas 3/5.
 
