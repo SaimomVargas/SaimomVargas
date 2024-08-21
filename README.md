@@ -33,7 +33,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**Uol Edtech**](https://uoledtech.com.br) • Full-time \
-Linguagens & Tecnologias: `Php`, `Laravel`, `JavaScript`, `V`\
+Linguagens & Tecnologias: `Php`, `Laravel`, `JavaScript`, `Vue`\
 <br/>
 <br/>
 
