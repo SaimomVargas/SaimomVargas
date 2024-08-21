@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Docker-333333?style=flat&logo=linux)
 
 **Ferramentas de desenvolvimento**
 
@@ -33,7 +34,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**Uol Edtech**](https://uoledtech.com.br) • Full-time \
-Linguagens & Tecnologias: `Php`, `Laravel`, `JavaScript`, `Vue`\
+Linguagens & Tecnologias: `Php`, `Laravel`, `JavaScript`, `Vue`, `Docker`, `linux` \
 <br/>
 <br/>
 
